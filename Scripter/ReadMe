@@ -1,0 +1,4 @@
+sudo apt-get install inotify-tools gzip
+
+sudo apt install dos2unix
+
